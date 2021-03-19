@@ -11,5 +11,5 @@
  <br/>
  <br/> :video_game:  &nbsp; Sobre mim: Curto tecnologias, games como The Witcher, Monster Hunter, The Legend of Zelda: Breath of the Wild e alguns seriados.
  <br/>
- <br/> :email: Meu Linkedin: https://www.linkedin.com/in/priscila-matos-11566813a/ / Email: priscila.m.s.sabino@gmail.com
+ <br/> :email: Meu Linkedin: https://www.linkedin.com/in/priscilamsabino/ / Email: priscila.m.s.sabino@gmail.com
 | 
