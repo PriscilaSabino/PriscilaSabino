@@ -5,7 +5,7 @@
  </br>
  <br/>:star: Atualmente não estou trabalhando na área da tecnologia (onde eu adoraria estar) mas estou fazendo uma transição de carreira saindo da área da educação para programação.
  <br/>
- <br/> :computer: &nbsp; Estou no penultimo ano da faculdade em Sistemas de Informação e fazendo cursos paralelos em Design, HTML, CSS e JavaScript para saber melhor qual caminho quero seguir.
+ <br/> :computer: &nbsp; Estou no último ano da faculdade em Sistemas de Informação e fazendo cursos paralelos em Design, HTML, CSS e JavaScript para saber melhor qual caminho quero seguir.
  </br>
  </br> :heartbeat: Confesso que Front-End tem me conquistado cada dia mais.
  <br/>
