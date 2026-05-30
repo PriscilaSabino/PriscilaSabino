@@ -4,7 +4,7 @@
 
 Tenho uma base sólida em lógica de programação e desenvolvimento de software (com histórico em Java), e hoje estou canalizando toda essa bagagem tecnológica para o universo dos dados. 
 
-Atualmente, dedico-me de forma intensa (3 a 4 horas diárias) ao estudo do ecossistema de dados, preparando uma fundação robusta para o início da graduação em Ciência de Dados e focando na busca rápida por oportunidades de estágio.
+Atualmente, dedico-me de forma intensa ao estudo do ecossistema de dados, preparando uma fundação robusta para o início da graduação em Ciência de Dados e focando na busca rápida por oportunidades de estágio.
 
 ---
 
