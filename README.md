@@ -25,7 +25,7 @@ Atualmente, dedico-me de forma intensa (3 a 4 horas diárias) ao estudo do ecoss
 ---
 
 ### 📫 Conecte-se comigo:
-✨ [**Meu LinkedIn**](https://www.linkedin.com/in/priscilamsabino/))  
+✨ [**Meu LinkedIn**](https://www.linkedin.com/in/priscilamsabino/)
 📧 [**Meu E-mail**](mailto:priscila.m.s.sabino@gmail.com)
 
 ---
