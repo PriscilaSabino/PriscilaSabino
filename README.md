@@ -5,7 +5,7 @@ Atualmente curso Ciência de Dados e estou direcionando minha carreira para a á
 Neste GitHub compartilho projetos desenvolvidos durante meus estudos, aplicando SQL, Python, Excel e Power BI em análises de dados reais. Meu objetivo é transformar dados em informações que apoiem a tomada de decisões e continuar evoluindo como profissional da área.
 
 
-## 🚀 Competências & Ferramentas em Desenvolvimento
+##  Competências & Ferramentas em Desenvolvimento
 
 Atualmente estou desenvolvendo conhecimentos nas seguintes áreas:
 
